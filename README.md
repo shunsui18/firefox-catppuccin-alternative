@@ -1,4 +1,4 @@
-# firefox-catppuccin-alternative
+# Firefox Catppuccin Alternative
 
 A custom Catppuccin Mocha-inspired Firefox theme.
 
