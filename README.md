@@ -5,7 +5,7 @@ A custom Catppuccin Mocha-inspired Firefox theme.
 ### **Preview**
 ![firefox-catppuccin-alternative-preview](https://github.com/shunsui18/firefox-catppuccin-alternative/blob/main/firefox-catppuccin-alternative-preview.png)
 
-# **Resources**
+# **External Resources**
 - This theme was designed and configured using [Firefox Color](https://addons.mozilla.org/en-US/firefox/addon/firefox-color/ "Go to Firefox Color download page"), Mozilla’s official theme customisation tool.
 
 # **Installation Instructions**
