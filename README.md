@@ -1,6 +1,6 @@
 # Firefox Catppuccin Alternative
 
-A custom Catppuccin Mocha-inspired Firefox theme.
+  A custom Catppuccin Mocha-inspired Firefox theme.
 
 ### **Preview**
 ![firefox-catppuccin-alternative-preview](https://github.com/shunsui18/firefox-catppuccin-alternative/blob/main/firefox-catppuccin-alternative-preview.png)
